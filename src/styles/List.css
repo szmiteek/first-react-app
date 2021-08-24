@@ -1,0 +1,19 @@
+li {
+  cursor: pointer;
+  line-height: 100%;
+
+  color: black;
+  padding-top: 15px;
+  padding-left: 15px;
+  list-style-type: square;
+}
+li:nth-child(even) {
+  background-color: #eee;
+}
+li:nth-child(odd) {
+  background-color: #ccc;
+}
+.list {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

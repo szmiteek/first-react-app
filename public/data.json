@@ -1,0 +1,39 @@
+{
+  "normy": [
+    {
+      "id": 0,
+      "name": "dsadsample1",
+      "value": 5
+    },
+    {
+      "id": 1,
+      "name": "aaasample",
+      "value": 43
+    },
+    {
+      "id": 2,
+      "name": "eeeesample",
+      "value": 324
+    },
+    {
+      "id": 3,
+      "name": "wefsamplec",
+      "value": 5.5
+    },
+    {
+      "id": 4,
+      "name": "gasdsample5",
+      "value": 5.5
+    },
+    {
+      "id": 5,
+      "name": "cccsampled",
+      "value": 5.5
+    },
+    {
+      "id": 6,
+      "name": "bethsampleddd",
+      "value": 5.5
+    }
+  ]
+}
